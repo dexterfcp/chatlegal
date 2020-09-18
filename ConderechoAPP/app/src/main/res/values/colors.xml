@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF5100</color><!--Color titulo -->
+    <color name="colorPrimaryDark">#F56D2A</color><!--Color fondo palabras -->
+    <color name="colorPrimaryDark2">#F0732E</color>
+    <color name="colorAccent">#A72C00</color>
+    <color name="colorNegro">#000000</color>
+    <color name="colorBlanco">#FFFFFF</color>
+</resources>

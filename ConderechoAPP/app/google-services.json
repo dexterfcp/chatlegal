@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "1048505941848",
+    "firebase_url": "https://conderecho-64804.firebaseio.com",
+    "project_id": "conderecho-64804",
+    "storage_bucket": "conderecho-64804.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048505941848:android:fc66f1ea70114ba2",
+        "android_client_info": {
+          "package_name": "com.legal.fcp.chatlegal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048505941848-c602566m8g1i8699u3rgg6sjjl21db12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.legal.fcp.chatlegal",
+            "certificate_hash": "8e36419db578211697c8665e55b13ec22c72962d"
+          }
+        },
+        {
+          "client_id": "1048505941848-pfqj74qj76tb62uqjvqjpgmgvpiklqto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.legal.fcp.chatlegal",
+            "certificate_hash": "87015925535bf440153c2663f54f0d0a6842fb33"
+          }
+        },
+        {
+          "client_id": "1048505941848-ahie6ueppv3uf1f8ngdb2pla4jflvbtq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.legal.fcp.chatlegal",
+            "certificate_hash": "a5d0a13eeb0ef6d67c9d66981b756f265322aeaa"
+          }
+        },
+        {
+          "client_id": "1048505941848-nlb13fcoc1j10uakkcj6r9915un12902.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEdqEb5DGALrJP92S8BXEPyLGGbgA9w4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048505941848-nlb13fcoc1j10uakkcj6r9915un12902.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048505941848:android:0060842d6af28fc2",
+        "android_client_info": {
+          "package_name": "com.legal.fcp.conderechoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048505941848-qu90l7na1tv9ug1o0rhlokc9g6hnijss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.legal.fcp.conderechoapp",
+            "certificate_hash": "a5d0a13eeb0ef6d67c9d66981b756f265322aeaa"
+          }
+        },
+        {
+          "client_id": "1048505941848-nlb13fcoc1j10uakkcj6r9915un12902.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEdqEb5DGALrJP92S8BXEPyLGGbgA9w4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048505941848-nlb13fcoc1j10uakkcj6r9915un12902.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
